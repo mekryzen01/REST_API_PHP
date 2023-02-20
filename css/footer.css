@@ -1,0 +1,17 @@
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    height: 50px;
+    font-weight: bold;
+    font-size: 18px;
+  
+  }
+
+  #black{
+    color: #000;
+  }
