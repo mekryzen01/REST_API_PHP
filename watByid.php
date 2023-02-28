@@ -5,8 +5,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA_DeZlR7mlQPPcxK-l_GSh1hd5JoUIV0E&callback=initMap" async defer></script>
-    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyClA2IE3YrNWPbeAYQB260QcPFOoD0dh_4" async defer></script> -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=You_KEY_APi&callback=initMap" async defer></script>
+  
     <?php include('./components/header_include.php') ?>
     <link rel="stylesheet" href="./css/page.css">
     <link rel="stylesheet" href="./css/header.css">
